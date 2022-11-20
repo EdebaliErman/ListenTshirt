@@ -1,0 +1,38 @@
+.about ul{
+    list-style: none;
+    text-align:center;
+    padding-top: 5rem;
+
+   
+}
+.about li{
+      
+    color: white;
+    padding-left:50px ;
+    display:inline-block;
+    float:none;
+}
+/* Text Font*/
+.about li{ 
+    font-style: bold;
+ 
+    font-size: 22px;
+    font-family: 'Patua One', cursive;
+}
+
+.about li:hover{
+    color: rgb(22, 188, 22);
+}
+.about a{
+    text-decoration: none;
+
+}
+.about{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    background-image: linear-gradient(0deg,  #e1e1e169 0%, #ffffff50 150%);
+   height:15rem;
+   border-top-left-radius: 3rem;
+
+   border-top-right-radius: 3rem;
+
+}

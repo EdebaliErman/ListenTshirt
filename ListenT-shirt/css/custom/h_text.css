@@ -1,0 +1,14 @@
+.h-text{
+
+    color: rgba(30, 219, 83, 0.493);
+    font-size: 50px;
+    align-items: center;
+    text-align: center;
+   position: absolute;
+   top: 70rem;
+  left: 10rem;
+  right: 10rem;
+  font-family: 'Krona One', sans-serif;
+font-family: 'Patua One', cursive;
+font-style: bold;
+}

@@ -1,0 +1,10 @@
+@import url(boostrap/bootstrap.bundle.min.js);
+@import url(boostrap/bootstrap.bundle.min.js.map);
+@import url(custom/extra.css);
+
+@import url(custom/about.css);
+@import url(custom/h_text.css);
+@import url(custom/carditem.css);
+@import url(custom/button.css);
+@import url(custom/info.css);
+@import url(custom/navbar.css);

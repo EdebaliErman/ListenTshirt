@@ -1,0 +1,30 @@
+.qr-box{
+    margin-left:auto;
+    margin-right:auto;
+    padding: 20px;
+    width:10%;
+    }
+body {
+    background-image: linear-gradient(
+        rgb(253, 253, 253),
+       
+        rgba(61, 166, 80, 0.481), rgb(0, 0, 0));
+}
+#ekle,#subtract{
+    border-radius:9rem; height: 50px; box-shadow: #000000 0px 5px,
+    rgba(33, 33, 33, 0.3) 0px 10px,
+    rgba(69, 68, 68, 0.2) 0px 15px,
+    rgba(187, 187, 187, 0.1) 0px 20px, 
+    rgba(177, 178, 177, 0.05) 0px 25px;
+    background-image: linear-gradient(180deg,  #e1e2e1 0%, #414241 150%);
+}
+#ekle:hover,#subtract:hover{
+
+    border-radius:9rem; height: 50px; box-shadow: #f2f3f2 0px 5px,
+    #f7f5f54d 0px 10px,
+    rgba(241, 234, 234, 0.2) 0px 15px,
+    rgba(252, 249, 249, 0.1) 0px 20px, 
+    rgba(253, 255, 253, 0.05) 0px 25px;
+    background-image: linear-gradient(180deg,  #e1e2e1 0%, #055405a9 150%);
+
+}
